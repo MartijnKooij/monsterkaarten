@@ -1,0 +1,16 @@
+.collection-card {
+    max-width: 300px;
+}
+
+.collection-card-image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.collection-card-image {
+    max-width: 270px;
+}
+
+.collection-card-header-image {
+    background-size: cover;
+}

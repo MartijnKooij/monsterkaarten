@@ -1,0 +1,7 @@
+<h2>{{collectionName$ | async}}</h2>
+<div class="flex-container">
+    <div class="flex-container-element" *ngFor="let card of collectionCards$ | async">
+        <app-collection-card [card]="card">
+        </app-collection-card>
+    </div>
+</div>

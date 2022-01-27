@@ -1,0 +1,23 @@
+[
+    {
+        "id": "kaart-1",
+        "title": "Eevee",
+        "subtitle": "Iets speciaals?",
+        "description": "Een leuk verhaaltje over deze kaart...",
+        "imagePath": "serie-2/kaart-1.png"
+    },
+    {
+        "id": "kaart-2",
+        "title": "Pikachu",
+        "subtitle": "Iets speciaals?",
+        "description": "Een leuk verhaaltje over deze kaart...",
+        "imagePath": "serie-2/kaart-2.png"
+    },
+    {
+        "id": "kaart-3",
+        "title": "Lapras",
+        "subtitle": "Iets speciaals?",
+        "description": "Een leuk verhaaltje over deze kaart...",
+        "imagePath": "serie-2/kaart-3.png"
+    }
+]

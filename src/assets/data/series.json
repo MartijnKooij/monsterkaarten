@@ -1,0 +1,16 @@
+[
+    {
+        "id": "serie-1",
+        "title": "Serie 1",
+        "subtitle": "Bevat 31 kaarten!",
+        "description": "Een leuk verhaaltje over deze serie, wie is de designer, waarom moet je deze echt hebben, etc...",
+        "imagePath": "serie-1/serie-1.png"
+    },
+    {
+        "id": "serie-2",
+        "title": "Serie 2",
+        "subtitle": "Bevat 53 kaarten!",
+        "description": "Een leuk verhaaltje over deze serie, wie is de designer, waarom moet je deze echt hebben, etc...",
+        "imagePath": "serie-2/serie-2.png"
+    }
+]
